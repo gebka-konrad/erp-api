@@ -1,4 +1,4 @@
-# truck-api
+# erp-api
 The goal is to create the first REST API module of the ERP application. The first requirement is to manage Trucks data. It is assumed that there will be more API endpoints to manage different resources (e.g. employee, factory, customer).
 
 Each Truck:
